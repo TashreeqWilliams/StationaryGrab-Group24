@@ -1,0 +1,240 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pencil",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imageUrl": "https://atlas-content-cdn.pixelsquid.com/stock-images/square-pencil-PxyvWL5-600.jpg",
+      "price": 25
+    },
+    {
+      "id": 2,
+      "name": "Eraser",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_JADyxqVZabcXmoya53WuHXexd1yqZTOlhQ&usqp=CAU",
+      "price": 20
+    },
+    {
+      "id": 3,
+      "name": "Stapler",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKto-bwFkLr2d_f9iWHz0-gdD8yv7D4v3sQw&usqp=CAU",
+      "price": 100
+    },
+    {
+      "id": 4,
+      "name": "Laptop Bag",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ENo9TNPCx91zYPF5791DJa-PQYVjdf453A&usqp=CAU",
+      "price": 120
+    },
+    {
+      "id": 5,
+      "name": "Laptop charger",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imageUrl": "https://wellstore.pk/dx-images/products/mtech-1607117932297.jpg",
+      "price": 150
+    },
+    {
+      "id": 6,
+      "name": "Scissors",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpVNyJM8L41ZCHAVwUbTN8sHCCCPYyuq4S0Q&usqp=CAU",
+      "price": 60
+    },
+    {
+      "id": 7,
+      "name": "Colour pens",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imageUrl": "https://i.pinimg.com/236x/22/ea/68/22ea6830947f186d40580341fc8fecc3.jpg",
+      "price": 125
+    },
+    {
+      "id": 8,
+      "name": "Physics Textbook",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIlvwqDdh3W54T_kBa7KC14k2A-V15tmICjQ&usqp=CAU",
+      "price": 299
+    }
+  ],
+  "wishlist": [],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Pencil",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imageUrl": "https://atlas-content-cdn.pixelsquid.com/stock-images/square-pencil-PxyvWL5-600.jpg",
+        "price": 25
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Pencil",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imageUrl": "https://atlas-content-cdn.pixelsquid.com/stock-images/square-pencil-PxyvWL5-600.jpg",
+        "price": 25
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Stapler",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKto-bwFkLr2d_f9iWHz0-gdD8yv7D4v3sQw&usqp=CAU",
+        "price": 100
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Pencil",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imageUrl": "https://atlas-content-cdn.pixelsquid.com/stock-images/square-pencil-PxyvWL5-600.jpg",
+        "price": 25
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Stapler",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKto-bwFkLr2d_f9iWHz0-gdD8yv7D4v3sQw&usqp=CAU",
+        "price": 100
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Eraser",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_JADyxqVZabcXmoya53WuHXexd1yqZTOlhQ&usqp=CAU",
+        "price": 20
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Eraser",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_JADyxqVZabcXmoya53WuHXexd1yqZTOlhQ&usqp=CAU",
+        "price": 20
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Pencil",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imageUrl": "https://atlas-content-cdn.pixelsquid.com/stock-images/square-pencil-PxyvWL5-600.jpg",
+        "price": 25
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Pencil",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imageUrl": "https://atlas-content-cdn.pixelsquid.com/stock-images/square-pencil-PxyvWL5-600.jpg",
+        "price": 25
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Stapler",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKto-bwFkLr2d_f9iWHz0-gdD8yv7D4v3sQw&usqp=CAU",
+        "price": 100
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Stapler",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKto-bwFkLr2d_f9iWHz0-gdD8yv7D4v3sQw&usqp=CAU",
+        "price": 100
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "Scissors",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpVNyJM8L41ZCHAVwUbTN8sHCCCPYyuq4S0Q&usqp=CAU",
+        "price": 60
+      },
+      "id": 12
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "Laptop charger",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imageUrl": "https://wellstore.pk/dx-images/products/mtech-1607117932297.jpg",
+        "price": 150
+      },
+      "id": 13
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Laptop Bag",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ENo9TNPCx91zYPF5791DJa-PQYVjdf453A&usqp=CAU",
+        "price": 120
+      },
+      "id": 14
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Stapler",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKto-bwFkLr2d_f9iWHz0-gdD8yv7D4v3sQw&usqp=CAU",
+        "price": 100
+      },
+      "id": 15
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Eraser",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_JADyxqVZabcXmoya53WuHXexd1yqZTOlhQ&usqp=CAU",
+        "price": 20
+      },
+      "id": 16
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
